@@ -1,0 +1,19 @@
+{
+    "id": "based_one",
+    "category": "exchange",
+    "name": "Based",
+    "description": "Based is a self-custodial trading and spending app for Hyperliquid markets and everyday payments: trade spot and perps in a web and mobile experience, and spend from crypto balances with a Visa card where supported. It targets active traders and on-chain users who want unified trading, wallet custody, and card spending in one place.",
+    "url": "https://app.based.one",
+    "socials": {
+        "x": "https://x.com/BasedOneX",
+        "discord": null,
+        "telegram": "https://t.me/BasedOneVerification",
+        "linkedin": "https://www.linkedin.com/company/basedapp/",
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#FF6940"
+}

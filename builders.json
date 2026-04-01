@@ -1,0 +1,59 @@
+{
+    "0x1924b8561eef20e70ede628a296175d358be80e5": {
+        "id": "based_one",
+        "category": "exchange",
+        "name": "Based",
+        "description": "Based is a self-custodial trading and spending app for Hyperliquid markets and everyday payments: trade spot and perps in a web and mobile experience, and spend from crypto balances with a Visa card where supported. It targets active traders and on-chain users who want unified trading, wallet custody, and card spending in one place.",
+        "url": "https://app.based.one",
+        "socials": {
+            "x": "https://x.com/BasedOneX",
+            "discord": null,
+            "telegram": "https://t.me/BasedOneVerification",
+            "linkedin": "https://www.linkedin.com/company/basedapp/",
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": "#FF6940"
+    },
+    "0xb84168cf3be63c6b8dad05ff5d755e97432ff80b": {
+        "id": "phantom",
+        "category": "wallet",
+        "name": "Phantom",
+        "description": "Phantom is a wallet that allows you to store and transfer your assets.",
+        "url": "https://phantom.com",
+        "socials": {
+            "x": "https://x.com/phantom",
+            "discord": null,
+            "telegram": null,
+            "linkedin": "https://www.linkedin.com/company/phantomwallet",
+            "youtube": "https://www.youtube.com/@phantom-wallet",
+            "instagram": "https://www.instagram.com/phantom/",
+            "facebook": "https://www.facebook.com/phantom",
+            "reddit": "https://www.reddit.com/r/phantom/",
+            "github": "https://github.com/phantom"
+        },
+        "brand_color": "#AB9FF2"
+    },
+    "0xe95a5e31904e005066614247d309e00d8ad753aa": {
+        "id": "metamask",
+        "category": "wallet",
+        "name": "MetaMask",
+        "description": "MetaMask is a self-custody crypto wallet for buying, selling, swapping, and holding digital assets across multiple networks. It is developed as part of the Consensys product family and is widely used to connect to dapps and onchain services, including those compatible with Hyperliquid when accessed through supported interfaces.",
+        "url": "https://metamask.io/",
+        "socials": {
+            "x": "https://x.com/metamask",
+            "discord": "https://discord.com/invite/consensys",
+            "telegram": null,
+            "linkedin": "https://www.linkedin.com/company/metamask",
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": "https://www.reddit.com/r/Metamask/",
+            "github": "https://github.com/MetaMask"
+        },
+        "brand_color": "#FF5C16"
+    }
+}

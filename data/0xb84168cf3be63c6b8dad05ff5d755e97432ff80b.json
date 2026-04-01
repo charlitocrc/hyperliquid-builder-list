@@ -1,0 +1,19 @@
+{
+    "id": "phantom",
+    "category": "wallet",
+    "name": "Phantom",
+    "description": "Phantom is a wallet that allows you to store and transfer your assets.",
+    "url": "https://phantom.com",
+    "socials":{ 
+        "x": "https://x.com/phantom",
+        "discord": null,
+        "telegram": null,
+        "linkedin": "https://www.linkedin.com/company/phantomwallet",
+        "youtube": "https://www.youtube.com/@phantom-wallet",
+        "instagram": "https://www.instagram.com/phantom/",
+        "facebook": "https://www.facebook.com/phantom",
+        "reddit": "https://www.reddit.com/r/phantom/",
+        "github": "https://github.com/phantom"
+    },
+    "brand_color": "#AB9FF2"
+}
