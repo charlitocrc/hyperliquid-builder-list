@@ -2,6 +2,26 @@ import json
 import re
 from pathlib import Path
 
+from eth_utils import is_address, to_checksum_address
+
+# Matches a 42-char hex address string (any casing) for path validation.
+_ADDRESS_STEM = re.compile(r"^0x[0-9a-fA-F]{40}$")
+
+
+def eip55_address_stem_issue(stem: str) -> str | None:
+    """
+    Return an error message if `stem` is not a valid EIP-55 checksummed address,
+    or None if it is valid.
+    """
+    if not _ADDRESS_STEM.fullmatch(stem):
+        return "must be `0x` followed by exactly 40 hexadecimal characters"
+    if not is_address(stem):
+        return "is not a valid EVM address"
+    expected = to_checksum_address(stem)
+    if stem != expected:
+        return f"must be EIP-55 checksummed (expected {expected})"
+    return None
+
 
 class Schema:
     def __init__(self, root: Path):
@@ -88,6 +108,9 @@ def validate_repo(root: Path):
     for path in sorted(data_dir.glob("*.json")):
         address = path.stem
         rel = path.relative_to(root)
+        stem_issue = eip55_address_stem_issue(address)
+        if stem_issue:
+            errors.append(f"{rel}: filename {stem_issue}")
         asset_dir = assets_dir / address
         has_logo = (asset_dir / "logo.png").is_file() or (asset_dir / "logo.svg").is_file()
         if not has_logo:
@@ -107,6 +130,17 @@ def validate_repo(root: Path):
             errors.append(f"{rel}: duplicate id {bid!r} (also in {id_to_rel[bid]})")
         else:
             id_to_rel[bid] = str(rel)
+    if assets_dir.is_dir():
+        for child in sorted(assets_dir.iterdir()):
+            if not child.is_dir() or child.name.startswith("."):
+                continue
+            name = child.name
+            if not _ADDRESS_STEM.fullmatch(name):
+                continue
+            issue = eip55_address_stem_issue(name)
+            if issue:
+                rel = child.relative_to(root)
+                errors.append(f"{rel}: directory name {issue}")
     expected = aggregate_builders(root, schema)
     output_path = root / "builders.json"
     try:
