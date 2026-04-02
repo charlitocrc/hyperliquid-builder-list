@@ -1,0 +1,19 @@
+{
+    "id": "rainbow",
+    "category": "wallet",
+    "name": "Rainbow",
+    "description": "Rainbow is a self-custodial Ethereum and EVM wallet with mobile apps and a browser extension for managing tokens, NFTs, swaps, bridges, and hardware wallets (Ledger and Trezor). It is aimed at everyday on-chain users and traders who want a single interface across many networks, including those used with Hyperliquid via WalletConnect and standard EVM workflows.",
+    "url": "https://rainbow.me",
+    "socials": {
+        "x": "https://x.com/rainbowdotme",
+        "discord": null,
+        "telegram": null,
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/rainbow-me"
+    },
+    "brand_color": "#ff54bb"
+}
