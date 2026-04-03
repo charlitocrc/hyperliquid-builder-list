@@ -1,0 +1,19 @@
+{
+    "id": "sushi",
+    "category": "dex",
+    "name": "Sushi",
+    "description": "Sushi is a decentralized exchange and automated market maker for swapping tokens, providing liquidity, and earning yield across many blockchain networks. It offers on-chain trading, pools, and cross-chain products such as SushiXSwap for users who prefer non-custodial DeFi.",
+    "url": "https://sushi.com",
+    "socials": {
+        "x": "https://x.com/sushiswap",
+        "discord": "https://discord.com/invite/qGeREffeAH",
+        "telegram": null,
+        "linkedin": "https://www.linkedin.com/company/sushiswap",
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/sushiswap"
+    },
+    "brand_color": "#FA52A0"
+}
