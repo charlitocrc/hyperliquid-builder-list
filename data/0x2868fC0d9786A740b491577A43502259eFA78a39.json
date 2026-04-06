@@ -1,0 +1,19 @@
+{
+    "id": "insilico_terminal",
+    "category": "trading_terminal",
+    "name": "Insilico Terminal",
+    "description": "Insilico Terminal is a web-based professional trading terminal for order, position, and execution management across major CEX and DEX venues, including Hyperliquid perps and spot. It combines a visual interface with a command-line style workflow and advanced institutional-style order types, and is free to use with API keys kept in the browser per its security model.",
+    "url": "https://insilicoterminal.com",
+    "socials": {
+        "x": "https://x.com/InsilicoTrading",
+        "discord": "https://discord.com/invite/GPBpaUnZrW",
+        "telegram": null,
+        "linkedin": null,
+        "youtube": "https://www.youtube.com/@InsilicoTerminal",
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#00E997"
+}
