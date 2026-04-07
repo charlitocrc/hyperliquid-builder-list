@@ -94,6 +94,25 @@
         },
         "brand_color": "#FF9830"
     },
+    "0xAd9bE64fD7a35d99a138b87CB212BAefbCDCf045": {
+        "id": "rabby",
+        "category": "wallet",
+        "name": "Rabby Wallet",
+        "description": "Rabby Wallet is an open-source browser extension and companion mobile and desktop apps for Ethereum and EVM chains, focused on clearer transaction previews, multi-chain UX, and security-oriented workflows for DeFi users. It can be used like other EVM wallets to connect to dapps and trading interfaces, including those compatible with Hyperliquid when accessed through supported Web3 connections.",
+        "url": "https://rabby.io/",
+        "socials": {
+            "x": "https://x.com/Rabby_io",
+            "discord": "https://discord.com/invite/seFBCWmUre",
+            "telegram": null,
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/RabbyHub"
+        },
+        "brand_color": "#4C65FF"
+    },
     "0xB84168Cf3be63c6b8dad05FF5d755E97432fF80b": {
         "id": "phantom",
         "category": "wallet",
