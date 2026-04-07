@@ -1,0 +1,19 @@
+{
+    "id": "tread_fi",
+    "category": "trading_terminal",
+    "name": "tread.fi",
+    "description": "tread.fi is an order execution management system (OEMS) and algorithmic trading terminal that connects to your existing CEX and DEX accounts so you can run execution algorithms, multi-leg orders, and real-time tracking from one interface. It supports Hyperliquid and other venues, optional REST API integration, and vCeFi for verifiable on-chain proofs of CeFi activity.",
+    "url": "https://www.tread.fi",
+    "socials": {
+        "x": "https://x.com/tread_fi",
+        "discord": "https://discord.gg/AFUQJRNjna",
+        "telegram": "https://t.me/+EB6_3WClnI0wMDNl",
+        "linkedin": "https://www.linkedin.com/company/tread-fi/",
+        "youtube": "https://www.youtube.com/@tread_fi",
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#FF9830"
+}
