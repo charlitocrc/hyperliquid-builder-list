@@ -1,0 +1,19 @@
+{
+    "id": "axiom_trade",
+    "category": "trading_terminal",
+    "name": "Axiom",
+    "description": "Axiom is a non-custodial web trading terminal for Solana and DeFi: spot and memecoin flows, wallet and X (Twitter) tracking, limit orders, and integrations such as Hyperliquid perpetuals and yield partners. It targets active on-chain traders who want execution, discovery, and position monitoring in one interface rather than juggling multiple apps.",
+    "url": "https://axiom.trade/",
+    "socials": {
+        "x": "https://x.com/axiomexchange",
+        "discord": "https://discord.com/invite/axiomtrade",
+        "telegram": null,
+        "linkedin": "https://www.linkedin.com/company/joinaxiom/",
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#346DDB"
+}
