@@ -1,0 +1,19 @@
+{
+    "id": "markets_xyz",
+    "category": "trading_terminal",
+    "name": "Markets by Kinetiq",
+    "description": "Markets by Kinetiq is a Hyperliquid trading terminal for builder-deployed perpetuals such as US500 and other equities, indices, currencies, and commodities, with order book, positions, and standard perp tooling. It is aimed at traders who want 24/7 access to these markets through the official markets.xyz app.",
+    "url": "https://markets.xyz/",
+    "socials": {
+        "x": "https://x.com/markets_xyz",
+        "discord": "https://discord.kinetiq.xyz",
+        "telegram": "https://t.me/kinetiq_announcements",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/kinetiq-research"
+    },
+    "brand_color": null
+}

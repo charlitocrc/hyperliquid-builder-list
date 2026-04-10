@@ -75,6 +75,44 @@
         },
         "brand_color": "#00E997"
     },
+    "0x42F3226007290b02C5a0B15bccbB1bA6dF04F992": {
+        "id": "markets_xyz",
+        "category": "trading_terminal",
+        "name": "Markets by Kinetiq",
+        "description": "Markets by Kinetiq is a Hyperliquid trading terminal for builder-deployed perpetuals such as US500 and other equities, indices, currencies, and commodities, with order book, positions, and standard perp tooling. It is aimed at traders who want 24/7 access to these markets through the official markets.xyz app.",
+        "url": "https://markets.xyz/",
+        "socials": {
+            "x": "https://x.com/markets_xyz",
+            "discord": "https://discord.kinetiq.xyz",
+            "telegram": "https://t.me/kinetiq_announcements",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/kinetiq-research"
+        },
+        "brand_color": null
+    },
+    "0x4eC89C1C70cA1e2F224bB43e28d122F4d2B4E8bb": {
+        "id": "markets_xyz_builder",
+        "category": "trading_terminal",
+        "name": "Markets by Kinetiq",
+        "description": "Markets by Kinetiq is a Hyperliquid trading terminal for builder-deployed perpetuals such as US500 and other equities, indices, currencies, and commodities, with order book, positions, and standard perp tooling. It is aimed at traders who want 24/7 access to these markets through the official markets.xyz app. This is the builder code for their frontend, which is different to their HIP3 Builder code",
+        "url": "https://markets.xyz/",
+        "socials": {
+            "x": "https://x.com/markets_xyz",
+            "discord": "https://discord.kinetiq.xyz",
+            "telegram": "https://t.me/kinetiq_announcements",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/kinetiq-research"
+        },
+        "brand_color": null
+    },
     "0x60dC8E3dAd2e4E0738e813B9cB09b9c00B5e0Fc9": {
         "id": "rainbow",
         "category": "wallet",
@@ -93,6 +131,25 @@
             "github": "https://github.com/rainbow-me"
         },
         "brand_color": "#ff54bb"
+    },
+    "0x7975CAFdFf839Ed5047244Ed3A0Dd82a89866081": {
+        "id": "dexari",
+        "category": "exchange",
+        "name": "Dexari",
+        "description": "Dexari is a self-custodial mobile app for trading Hyperliquid perpetuals and spot with leverage (up to 40x), TradingView charts, and advanced order types, with card and bank funding and multi-factor secured custody. It targets traders who want a CEX-style workflow while keeping keys and balances on-chain.",
+        "url": "https://dexari.com/",
+        "socials": {
+            "x": "https://x.com/Dexari",
+            "discord": "https://discord.gg/dexari",
+            "telegram": "https://t.me/DexariDotComOfficial",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": "#e5dbb7"
     },
     "0x999a4B5F268A8fBf33736FeFf360d462AD248Dbf": {
         "id": "tread_fi",
