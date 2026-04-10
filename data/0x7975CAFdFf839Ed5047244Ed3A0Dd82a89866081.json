@@ -1,0 +1,19 @@
+{
+    "id": "dexari",
+    "category": "exchange",
+    "name": "Dexari",
+    "description": "Dexari is a self-custodial mobile app for trading Hyperliquid perpetuals and spot with leverage (up to 40x), TradingView charts, and advanced order types, with card and bank funding and multi-factor secured custody. It targets traders who want a CEX-style workflow while keeping keys and balances on-chain.",
+    "url": "https://dexari.com/",
+    "socials": {
+        "x": "https://x.com/Dexari",
+        "discord": "https://discord.gg/dexari",
+        "telegram": "https://t.me/DexariDotComOfficial",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#e5dbb7"
+}
