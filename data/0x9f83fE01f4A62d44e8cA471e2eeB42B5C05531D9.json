@@ -1,0 +1,19 @@
+{
+    "id": "tria",
+    "category": "wallet",
+    "name": "Tria",
+    "description": "Tria is a self-custodial wallet and consumer interface for trading, earning, spending, and moving crypto across chains without manual bridging or gas management. It also provides developer SDKs for shared wallets, SSO onboarding, and cross-chain execution.",
+    "url": "https://www.tria.so/",
+    "socials": {
+        "x": "https://x.com/useTria",
+        "discord": "https://discord.gg/triahq",
+        "telegram": "https://t.me/useTria",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#7D40FF"
+}
