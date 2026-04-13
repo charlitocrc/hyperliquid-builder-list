@@ -94,6 +94,25 @@
         },
         "brand_color": null
     },
+    "0x4950994884602D1B6c6D96e4Fe30F58205C39395": {
+        "id": "dreamcash",
+        "category": "trading_terminal",
+        "name": "Dreamcash",
+        "description": "Dreamcash is a self-custodial trading app that connects to Hyperliquid, offering mobile, web, and desktop clients for perpetuals, spot, and HIP-3 markets\u2014including real-world asset pairs\u2014with AI alerts and rewards. It is published by Supreme Liquid Labs and positions itself as a CEX-style experience with on-chain settlement; the app is not affiliated with or endorsed by Hyperliquid.",
+        "url": "https://www.dreamcash.xyz/",
+        "socials": {
+            "x": "https://x.com/Dreamcash",
+            "discord": null,
+            "telegram": null,
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": "#0096F7"
+    },
     "0x4eC89C1C70cA1e2F224bB43e28d122F4d2B4E8bb": {
         "id": "markets_xyz_builder",
         "category": "trading_terminal",
