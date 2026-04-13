@@ -1,0 +1,19 @@
+{
+    "id": "metascalp",
+    "category": "trading_terminal",
+    "name": "MetaScalp",
+    "description": "MetaScalp is a Windows desktop crypto trading terminal aimed at active and professional traders, with order book, tape, clusters, and linked layouts across many exchanges. It integrates Hyperliquid spot and perpetuals alongside other venues and is distributed as an alpha-stage PC client with documentation on docs.metascalp.io.",
+    "url": "https://metascalp.io/",
+    "socials": {
+        "x": null,
+        "discord": null,
+        "telegram": "https://t.me/+RBOELDSN1_45YjMy",
+        "linkedin": null,
+        "youtube": "https://www.youtube.com/@RealMetaScalp",
+        "instagram": "https://www.instagram.com/realmetascalp/",
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#09073a"
+}
