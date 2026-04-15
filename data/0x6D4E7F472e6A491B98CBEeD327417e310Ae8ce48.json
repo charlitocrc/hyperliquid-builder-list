@@ -1,0 +1,19 @@
+{
+    "id": "tryliquid",
+    "category": "trading_terminal",
+    "name": "Liquid",
+    "description": "Liquid is a non-custodial trading app (iOS, web, and more) that routes activity through Hyperliquid, offering hundreds of markets across crypto, FX, equities, and commodities with configurable leverage and a simplified long/short flow. It targets retail traders who want a mobile-first experience with low-friction access and self-custody; the app is published by HyperSports, Inc. and is not affiliated with or endorsed by Hyperliquid.",
+    "url": "https://tryliquid.xyz",
+    "socials": {
+        "x": "https://x.com/liquidtrading",
+        "discord": "https://discord.gg/liquidtrading",
+        "telegram": "https://t.me/liquid_perps",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#EDEDFF"
+}
