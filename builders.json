@@ -132,6 +132,25 @@
         },
         "brand_color": null
     },
+    "0x5A3Bc60b0A99A7F4fBf0d15554FA5fE88e7628C2": {
+        "id": "minara",
+        "category": "tools",
+        "name": "Minara",
+        "description": "Minara is an AI-native financial assistant with a built-in custodial wallet: research and chat across crypto, stocks, DeFi, and more, plus spot and perpetual trading with execution routed through Hyperliquid for perps (including Trading Copilot at copilot.minara.ai and AI autopilot strategies). It is aimed at traders and investors who want conversational analysis, agents, and one place to move between insight and execution.",
+        "url": "https://minara.ai/",
+        "socials": {
+            "x": "https://x.com/minara",
+            "discord": "https://discord.com/invite/minaraai",
+            "telegram": null,
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/Minara-AI"
+        },
+        "brand_color": null
+    },
     "0x60dC8E3dAd2e4E0738e813B9cB09b9c00B5e0Fc9": {
         "id": "rainbow",
         "category": "wallet",
