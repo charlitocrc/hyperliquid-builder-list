@@ -1,0 +1,19 @@
+{
+    "id": "pear_protocol",
+    "category": "trading_terminal",
+    "name": "Pear Protocol",
+    "description": "Pear Protocol is a decentralized pair and basket trading layer: open leveraged long/short positions across multiple tokens in one trade, with execution on venues such as Hyperliquid and integrations like SYMM. It targets traders who want relative-value and narrative-driven strategies with cross-margined legs, charts, TWAP, and optional AI signal tooling (Agent Pear).",
+    "url": "https://www.pear.garden/",
+    "socials": {
+        "x": "https://x.com/pear_protocol",
+        "discord": "https://discord.com/invite/pearprotocol",
+        "telegram": null,
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/pearprotocol"
+    },
+    "brand_color": "#A2DB5C"
+}

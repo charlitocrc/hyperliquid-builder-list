@@ -246,6 +246,25 @@
         },
         "brand_color": "#7D40FF"
     },
+    "0xA47D4d99191db54A4829cdf3de2417E527c3b042": {
+        "id": "pear_protocol",
+        "category": "trading_terminal",
+        "name": "Pear Protocol",
+        "description": "Pear Protocol is a decentralized pair and basket trading layer: open leveraged long/short positions across multiple tokens in one trade, with execution on venues such as Hyperliquid and integrations like SYMM. It targets traders who want relative-value and narrative-driven strategies with cross-margined legs, charts, TWAP, and optional AI signal tooling (Agent Pear).",
+        "url": "https://www.pear.garden/",
+        "socials": {
+            "x": "https://x.com/pear_protocol",
+            "discord": "https://discord.com/invite/pearprotocol",
+            "telegram": null,
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/pearprotocol"
+        },
+        "brand_color": "#A2DB5C"
+    },
     "0xA9AB442F9dFE752Dc74b666c41E7a0498BaF8687": {
         "id": "metascalp",
         "category": "trading_terminal",
@@ -302,6 +321,25 @@
             "github": "https://github.com/phantom"
         },
         "brand_color": "#AB9FF2"
+    },
+    "0xDdf3A93522D503a43f802BeB4882BfF18D940a20": {
+        "id": "katbot",
+        "category": "bot",
+        "name": "Katbot",
+        "description": "Katbot is an agentic AI trading intelligence platform for leveraged perpetuals on Hyperliquid: it scans markets, surfaces trade setups, and supports automated execution with risk-aware workflows. It is aimed at traders who want AI-assisted research, recommendations, and order automation tied to Hyperliquid builder flows.",
+        "url": "https://katbot.ai/",
+        "socials": {
+            "x": "https://x.com/kitty_katbot",
+            "discord": "https://discord.gg/asTcxUTzRv",
+            "telegram": null,
+            "linkedin": null,
+            "youtube": "https://www.youtube.com/@PurrfectIntel",
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/claytantor/katbotai-openclaw"
+        },
+        "brand_color": "#0f172a"
     },
     "0xe95A5e31904e005066614247D309e00D8AD753Aa": {
         "id": "metamask",
