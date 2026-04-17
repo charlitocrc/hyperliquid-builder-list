@@ -1,0 +1,19 @@
+{
+    "id": "supercexy",
+    "category": "exchange",
+    "name": "Supercexy",
+    "description": "Supercexy is a self-custodial trading front end for Hyperliquid spot and perpetual futures, positioning itself as an on-chain CEX-style experience. It offers charts, order book, balances and positions, and advanced order types such as TWAP and iceberg, aimed at traders who want familiar exchange workflows while interacting with Hyperliquid on-chain.",
+    "url": "https://supercexy.com/",
+    "socials": {
+        "x": null,
+        "discord": null,
+        "telegram": null,
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#acf601"
+}
