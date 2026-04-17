@@ -1,0 +1,19 @@
+{
+    "id": "infinex",
+    "category": "wallet",
+    "name": "Infinex",
+    "description": "Infinex is a passkey-first, self-custody crypto superapp with gas abstraction across 20+ chains. It combines a unified portfolio, cross-chain swaps, perpetual futures (including integrations powered by Hyperliquid), prediction markets, NFT trading, and other DeFi features in one interface, with optional browser extension connectivity for dapps.",
+    "url": "https://infinex.xyz/",
+    "socials": {
+        "x": "https://x.com/infinex",
+        "discord": "https://discord.gg/infinex",
+        "telegram": "https://t.me/infinexbroadcast",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/infinex-xyz"
+    },
+    "brand_color": "#FE6F39"
+}
