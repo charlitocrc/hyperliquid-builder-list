@@ -208,6 +208,25 @@
         },
         "brand_color": "#EDEDFF"
     },
+    "0x75982Eb8B734b24b653B39e308489A428041F162": {
+        "id": "wundertrading",
+        "category": "bot",
+        "name": "WunderTrading",
+        "description": "WunderTrading is a cloud-based crypto automation platform for running trading bots (including TradingView signal bots, DCA, grid, and AI bots), copy trading, spread and arbitrage tools, and portfolio tracking across many exchanges. It supports Hyperliquid among its integrations and also offers an API and MCP for developers wiring external apps to execution.",
+        "url": "https://wundertrading.com/en",
+        "socials": {
+            "x": "https://x.com/wunder_bit",
+            "discord": "https://discord.com/invite/aHsKdHKBpK",
+            "telegram": "https://t.me/wunderbit",
+            "linkedin": null,
+            "youtube": "https://www.youtube.com/c/WunderBit",
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": null
+    },
     "0x7975CAFdFf839Ed5047244Ed3A0Dd82a89866081": {
         "id": "dexari",
         "category": "exchange",
