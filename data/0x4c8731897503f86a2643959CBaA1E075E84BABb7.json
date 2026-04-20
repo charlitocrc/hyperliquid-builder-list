@@ -1,0 +1,19 @@
+{
+    "id": "bullpen",
+    "category": "trading_terminal",
+    "name": "Bullpen",
+    "description": "Bullpen is a non-custodial trading terminal for onchain markets. It lets users trade perps via Hyperliquid, spot tokens via Jupiter Ultra (and Hyperliquid spot for listed assets), and prediction markets via Polymarket from one interface.",
+    "url": "https://bullpen.fi/",
+    "socials": {
+        "x": "https://x.com/BullpenFi",
+        "discord": "https://discord.com/invite/bullpen",
+        "telegram": null,
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/BullpenFi/bullpen-cli-releases"
+    },
+    "brand_color": null
+}
