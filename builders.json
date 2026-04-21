@@ -284,6 +284,25 @@
         },
         "brand_color": "#FF9830"
     },
+    "0x9b12E858dA780a96876E3018780CF0D83359b0bb": {
+        "id": "onekey",
+        "category": "wallet",
+        "name": "OneKey",
+        "description": "OneKey is an open-source, multi-chain crypto wallet with mobile, desktop, browser extension, and web app clients, plus optional OneKey hardware wallets for cold storage. It supports buying and selling, swaps, staking, MEV-aware trading flows, and dApp connectivity for users who want self-custody across many networks.",
+        "url": "https://onekey.so/",
+        "socials": {
+            "x": "https://x.com/OneKeyHQ",
+            "discord": "https://discord.com/invite/onekey",
+            "telegram": null,
+            "linkedin": "https://www.linkedin.com/company/onekeyhq",
+            "youtube": "https://www.youtube.com/@onekeyhq",
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": "https://github.com/OneKeyHQ"
+        },
+        "brand_color": null
+    },
     "0x9f83fE01f4A62d44e8cA471e2eeB42B5C05531D9": {
         "id": "tria",
         "category": "wallet",
