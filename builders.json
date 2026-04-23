@@ -18,6 +18,25 @@
         },
         "brand_color": "#acf601"
     },
+    "0x0cbf655B0D22Ae71FBa3a674b0E1c0C7E7f975aF": {
+        "id": "pvp_trade",
+        "category": "copytrading",
+        "name": "PVP.trade",
+        "description": "PVP.trade is a Telegram bot for trading Hyperliquid perpetuals in group chats: members can long or short perps, share alpha, copy or countertrade each other, and use commands for charts, leaderboards, stops, and wallet tracking. Custody uses Turnkey with optional passkey 2FA; funding is USDC on Hyperliquid, Arbitrum, or Solana with bridging after minimum deposits.",
+        "url": "https://pvp.trade/",
+        "socials": {
+            "x": "https://x.com/pvp_dot_trade",
+            "discord": "https://discord.gg/pvptrade",
+            "telegram": "https://t.me/pvptrade_bot",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": null
+    },
     "0x12EE177DB3cEafedc639D023A29CC8588DB3A4b9": {
         "id": "sushi",
         "category": "dex",
