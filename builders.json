@@ -208,6 +208,25 @@
         },
         "brand_color": null
     },
+    "0x5D2c2bD98F10616771D7B5124AD2090Ba72Aa43c": {
+        "id": "silhouette_naked",
+        "category": "exchange",
+        "name": "Silhouette (Naked)",
+        "description": "Silhouette (Naked) is the public-ledger trading path for Silhouette\u2019s Hyperliquid interface: in naked mode, orders route directly to Hyperliquid\u2019s order book via builder codes, with wallet, size, and intent visible on-chain like other Hyperliquid frontends. The same app at silhouette.exchange lets you choose naked or shielded per trade; naked supports spot and perpetuals with market and limit orders, while shielded spot uses Silhouette\u2019s confidential execution layer.",
+        "url": "https://silhouette.exchange/",
+        "socials": {
+            "x": "https://x.com/silhouette_ex",
+            "discord": null,
+            "telegram": "https://t.me/silhouette_exchange",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": null
+    },
     "0x60dC8E3dAd2e4E0738e813B9cB09b9c00B5e0Fc9": {
         "id": "rainbow",
         "category": "wallet",
@@ -478,7 +497,7 @@
         "id": "hyperdash",
         "category": "trading_terminal",
         "name": "Hyperdash",
-        "description": "Hyperdash is a web-based trading terminal for Hyperliquid: execution alongside analytics such as leaderboards, trader discovery, and portfolio views. It supports advanced order types and copy or counter trading against public Hyperliquid wallet activity.",
+        "description": "Hyperdash is a web-based trading terminal for Hyperliquid: execution alongside analytics such as leaderboards, trader discovery, and portfolio views. It supports advanced order types and copy or counter trading against public Hyperliquid wallet activity, and is developed under pvp.trade after its acquisition of the product.",
         "url": "https://hyperdash.com/",
         "socials": {
             "x": "https://x.com/pvp_dot_trade",

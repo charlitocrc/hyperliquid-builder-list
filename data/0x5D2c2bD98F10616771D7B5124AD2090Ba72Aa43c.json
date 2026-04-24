@@ -1,0 +1,19 @@
+{
+    "id": "silhouette_naked",
+    "category": "exchange",
+    "name": "Silhouette (Naked)",
+    "description": "Silhouette (Naked) is the public-ledger trading path for Silhouette’s Hyperliquid interface: in naked mode, orders route directly to Hyperliquid’s order book via builder codes, with wallet, size, and intent visible on-chain like other Hyperliquid frontends. The same app at silhouette.exchange lets you choose naked or shielded per trade; naked supports spot and perpetuals with market and limit orders, while shielded spot uses Silhouette’s confidential execution layer.",
+    "url": "https://silhouette.exchange/",
+    "socials": {
+        "x": "https://x.com/silhouette_ex",
+        "discord": null,
+        "telegram": "https://t.me/silhouette_exchange",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": null
+}
