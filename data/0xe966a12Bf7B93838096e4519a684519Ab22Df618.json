@@ -1,0 +1,19 @@
+{
+    "id": "hyperdash",
+    "category": "trading_terminal",
+    "name": "Hyperdash",
+    "description": "Hyperdash is a web-based trading terminal for Hyperliquid: execution alongside analytics such as leaderboards, trader discovery, and portfolio views. It supports advanced order types and copy or counter trading against public Hyperliquid wallet activity, and is developed under pvp.trade after its acquisition of the product.",
+    "url": "https://hyperdash.com/",
+    "socials": {
+        "x": "https://x.com/pvp_dot_trade",
+        "discord": "https://discord.gg/pvptrade",
+        "telegram": "https://t.me/pvptrade_bot",
+        "linkedin": null,
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": "#ED3602"
+}
