@@ -1,0 +1,19 @@
+{
+    "id": "mass_money",
+    "category": "defi",
+    "name": "Mass",
+    "description": "Mass is a self-custody DeFi mobile app for trading perps (including on Hyperliquid), tokenized stocks, prediction markets, and spot crypto across multiple chains from one interface. Users can access hundreds of leveraged markets plus swaps, fiat on-ramps, and loyalty-style rewards centered on trading activity.",
+    "url": "https://mass.money/",
+    "socials": {
+        "x": "https://x.com/MassDotMoney",
+        "discord": "https://discord.gg/XQU2AcpSeK",
+        "telegram": null,
+        "linkedin": "https://www.linkedin.com/company/nested-fi/",
+        "youtube": null,
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": "https://github.com/MassDotMoney"
+    },
+    "brand_color": "#EBFF42"
+}
