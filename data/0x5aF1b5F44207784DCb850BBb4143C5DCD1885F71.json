@@ -1,0 +1,19 @@
+{
+    "id": "trust_wallet",
+    "category": "wallet",
+    "name": "Trust Wallet",
+    "description": "Trust Wallet is a self-custody crypto wallet and Web3 gateway for mobile and browser extension, supporting many blockchains and millions of assets for storing, swapping, buying, and using dApps. It positions security and user control of keys as core, and integrates trading venues—including Hyperliquid perps where available by region—inside the app experience.",
+    "url": "https://trustwallet.com/",
+    "socials": {
+        "x": "https://x.com/trustwallet",
+        "discord": null,
+        "telegram": "https://t.me/trustwallet",
+        "linkedin": "https://www.linkedin.com/company/trustwallet",
+        "youtube": "https://www.youtube.com/@Trustwallet",
+        "instagram": "https://www.instagram.com/trustwallet",
+        "facebook": "https://www.facebook.com/trustwalletapp",
+        "reddit": "https://www.reddit.com/r/TrustWallet",
+        "github": "https://github.com/trustwallet"
+    },
+    "brand_color": "#0500FF"
+}
