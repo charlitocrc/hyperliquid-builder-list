@@ -151,6 +151,25 @@
         },
         "brand_color": "#0096F7"
     },
+    "0x49AE63056b3A0Be0B166813eE687309Ab653c07c": {
+        "id": "dextrabot",
+        "category": "copytrading",
+        "name": "Dextrabot",
+        "description": "Dextrabot is a Hyperliquid-focused platform for discovering wallet performance, analyzing traders, and automating perpetual copy trading with configurable risk controls. It also supports Telegram alerts, additional trading and farming bots on several venues, and a documented fee model for copy-trade execution.",
+        "url": "https://dextrabot.com/",
+        "socials": {
+            "x": "https://x.com/dextrabot",
+            "discord": "https://discord.gg/dextrabot",
+            "telegram": "https://t.me/Dextrabot_Official",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": "#67FFBD"
+    },
     "0x4c8731897503f86a2643959CBaA1E075E84BABb7": {
         "id": "bullpen",
         "category": "trading_terminal",
