@@ -1,0 +1,19 @@
+{
+    "id": "superx",
+    "category": "copytrading",
+    "name": "SuperX",
+    "description": "SuperX is a Hyperliquid-focused suite with synchronized web and Telegram interfaces: it offers wallet discovery and performance screening (leaderboards, smart-money and vault-oriented views, and detailed trader metrics) together with SuperX Copy Trade flows and a discretionary SuperX Terminal. Official documentation at docs.trysuper.co describes setup, login options, and product behavior for traders who want analytics-driven follow or mirror strategies on Hyperliquid.",
+    "url": "https://trysuper.co/",
+    "socials": {
+        "x": "https://x.com/trysuper_",
+        "discord": "https://discord.gg/superx",
+        "telegram": "https://t.me/trysuperx",
+        "linkedin": null,
+        "youtube": "https://www.youtube.com/@usesuperx",
+        "instagram": null,
+        "facebook": null,
+        "reddit": null,
+        "github": null
+    },
+    "brand_color": null
+}
