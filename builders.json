@@ -360,6 +360,25 @@
         },
         "brand_color": "#e5dbb7"
     },
+    "0x8af3545a3988b7A46f96F9F1AE40c0e64Fa493C2": {
+        "id": "hypersignals",
+        "category": "trading_terminal",
+        "name": "HyperSignals",
+        "description": "HyperSignals is a web trading terminal built around AI agents for scanning and executing across perpetuals, spot, DeFi, and prediction markets; official copy highlights Hyperliquid among venues. Users launch the live product from the linked marketing site. HyperSignals is not affiliated with or endorsed by Hyperliquid.",
+        "url": "https://www.hypersignals.ai/",
+        "socials": {
+            "x": "https://x.com/HyperSignals_ai",
+            "discord": null,
+            "telegram": "https://t.me/hypersignalsai",
+            "linkedin": null,
+            "youtube": null,
+            "instagram": null,
+            "facebook": null,
+            "reddit": null,
+            "github": null
+        },
+        "brand_color": "#FF4E17"
+    },
     "0x999a4B5F268A8fBf33736FeFf360d462AD248Dbf": {
         "id": "tread_fi",
         "category": "trading_terminal",
